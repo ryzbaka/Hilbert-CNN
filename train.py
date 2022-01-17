@@ -73,8 +73,7 @@ def train(network_architecture,
               '\n      train accuracy is', "{:10.5f}".format(avg_train_acc),
               ' ===>>> train cost is ', "{:10.5f}".format(avg_train_cost))
 
-
-	temp_acc = []
+        temp_acc = []
         temp_cost = []
 
 
